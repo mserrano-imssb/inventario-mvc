@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
               "ToolTip": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
               "RelativeToolTip": "SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAkwDkAAAAhAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T20:31:46.452Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAxwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T20:31:31.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T20:31:31.586Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "SistemaInventario\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-11T20:01:09.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T20:01:09.557Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "SistemaInventario\\Program.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAUwGAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T15:12:23.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T15:12:23.384Z"
             }
           ]
         }
