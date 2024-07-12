@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\imss\\SistemaInventario-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC778B6-84E2-44BF-B0EB-2DFBCAC0EF09}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\workspace\\imss\\sistemainventario-main\\sistemainventario.accesodatos\\inicializador\\dbinicializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC778B6-84E2-44BF-B0EB-2DFBCAC0EF09}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\inicializador\\dbinicializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|c:\\workspace\\imss\\sistemainventario-main\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC778B6-84E2-44BF-B0EB-2DFBCAC0EF09}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\workspace\\imss\\sistemainventario-main\\sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC778B6-84E2-44BF-B0EB-2DFBCAC0EF09}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|c:\\workspace\\imss\\sistemainventario-main\\sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInicializador.cs",
+              "DocumentMoniker": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
+              "ToolTip": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:31:46.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAxwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:31:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
+              "ToolTip": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario\\appsettings.json",
+              "RelativeToolTip": "SistemaInventario\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T20:01:09.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
+              "ToolTip": "C:\\workspace\\imss\\SistemaInventario-main\\SistemaInventario\\Program.cs",
+              "RelativeToolTip": "SistemaInventario\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:12:23.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
