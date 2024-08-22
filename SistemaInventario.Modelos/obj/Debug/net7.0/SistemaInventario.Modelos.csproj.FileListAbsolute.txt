@@ -28,3 +28,19 @@ C:\workspace\imss\SistemaInventario-main\SistemaInventario.Modelos\obj\Debug\net
 C:\workspace\imss\SistemaInventario-main\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
 C:\workspace\imss\SistemaInventario-main\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
 C:\workspace\imss\SistemaInventario-main\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.deps.json
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.AssemblyInfo.cs
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.sourcelink.json
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaI.5E10B74F.Up2Date
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.dll
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\refint\SistemaInventario.Modelos.dll
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\SistemaInventario.Modelos.pdb
+C:\Users\Mario Serrano\source\repos\inventario-mvc\SistemaInventario.Modelos\obj\Debug\net7.0\ref\SistemaInventario.Modelos.dll

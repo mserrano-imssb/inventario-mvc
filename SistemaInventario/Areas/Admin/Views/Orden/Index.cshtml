@@ -3,9 +3,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 
     var estado = Context.Request.Query["estado"];
-    var aprobado = "text-primary";
-    var completado = "text-primary";
-    var todas = "text-primary";
+    var aprobado = "text-secondary";
+    var completado = "text-secondary";
+    var todas = "text-secondary";
 
     switch (estado)
     {
@@ -25,7 +25,7 @@
 <div class="border p-3">
     <div class="d-lg-flex justify-content-between mb-3">
         <div class="p-2">
-            <h2 class="text-primary">Lista de Ordenes</h2>
+            <h2 class="text-secondary">Lista de Ordenes</h2>
         </div>
         <div class="p-2">
             <ul class="list-group list-group-horizontal-sm">

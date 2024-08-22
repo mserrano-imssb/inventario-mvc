@@ -26,8 +26,8 @@ body {
 
 
 .header {
-    height: 20vh;
-    background: linear-gradient(to right, #2b34bae3, #d1d4f1ea);
+    height: 7vh;
+    background: linear-gradient(to right, #235b4e, #929f9c);
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
 }
 
@@ -47,7 +47,7 @@ body {
 
     .header {
         height: 13vh;
-        background: linear-gradient(to right, #2b34bae3, #d1d4f1ea);
+        background: linear-gradient(to right, #235b4e, #929f9c);
         clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     }
 }
@@ -60,7 +60,7 @@ body {
 
     .header {
         height: 13vh;
-        background: linear-gradient(to right, #2b34bae3, #d1d4f1ea);
+        background: linear-gradient(to right, #235b4e, #929f9c);
         clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     }
 }
@@ -73,7 +73,7 @@ body {
 
     .header {
         height: 13vh;
-        background: linear-gradient(to right, #2b34bae3, #d1d4f1ea);
+        background: linear-gradient(to right, #235b4e, #929f9c);
         clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     }
 }
@@ -88,7 +88,7 @@ body {
 
     .header {
         height: 10vh;
-        background: linear-gradient(to right, #2b34bae3, #d1d4f1ea);
+        background: linear-gradient(to right, #235b4e, #929f9c);
         clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     }
 }
@@ -103,7 +103,7 @@ body {
 
     .header {
         height: 10vh;
-        background: linear-gradient(to right, #2b34bae3, #d1d4f1ea);
+        background: linear-gradient(to right, #235b4e, #929f9c);
         clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     }
 }

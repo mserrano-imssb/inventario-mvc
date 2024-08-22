@@ -5,16 +5,15 @@
 }
 
 <header class="header">
-    <div class="container pt-sm-5">
+    <div class="container pt-sm-3">
         <div class="heading-primary">
-            Los Mejores Productos & <br />
-            Marcas en nuestra Tienda
+            IMSS Bienestar Baja California
         </div>
     </div>
 </header>
 
 
-<section class="mb-5">
+<section class="mb-1">
     <div class="container my-2">
         <form asp-action="Index" method="get">
             <div class="col-lg-6 col-md-6 col-sm-6 d-flex">
@@ -22,7 +21,7 @@
                     <input type="text" class="form-control" placeholder="Buscar ..." aria-label="Buscar" aria-describedby="button-addon2"
                       name="busqueda" value="@ViewData["BusquedaActual"]"
                     />
-                    <button type="submit" class="btn btn-outline-primary">
+                    <button type="submit" class="btn btn-outline-secondary">
                         <i class="bi bi-search"></i>
                     </button>
                 </div>
@@ -38,7 +37,7 @@
                             <h5 class="card-title">@producto.Descripcion</h5>
                             <p class="card-text"> $ @String.Format("{0:#,##0.00}", producto.Precio) </p>
                             <div class="card-footer d-flex align-items-end pt-3 px-0 pb-0 mt-auto bg-white">
-                                <a asp-action="Detalle" asp-route-id="@producto.Id" class="btn btn-outline-primary">
+                                <a asp-action="Detalle" asp-route-id="@producto.Id" class="btn btn-outline-secondary">
                                     <i class="bi bi-tags-fill"></i> Detalle
                                 </a>
                             </div>
@@ -49,25 +48,25 @@
         </div>
 
         <a asp-action="Index"
-           asp-route-pageNumber="@(1)" class="btn btn-outline-primary"
+           asp-route-pageNumber="@(1)" class="btn btn-outline-secondary"
            asp-route-busquedaActual="@ViewData["BusquedaActual"]"
            >
             <i class="bi bi-skip-start-fill"></i>
         </a>
 
         <a asp-action="Index"
-           asp-route-pageNumber="@((int)ViewData["PageNumber"]-1)" class="btn btn-outline-primary @ViewData["Previo"]"
+           asp-route-pageNumber="@((int)ViewData["PageNumber"]-1)" class="btn btn-outline-secondary @ViewData["Previo"]"
            asp-route-busquedaActual="@ViewData["BusquedaActual"]">
             Anterior
         </a>
         <span>Pagina @ViewData["PageNumber"] de @ViewData["TotalPaginas"]</span>
         <a asp-action="Index"
-           asp-route-pageNumber="@((int)ViewData["PageNumber"] +1)" class="btn btn-outline-primary @ViewData["Siguiente"]"
+           asp-route-pageNumber="@((int)ViewData["PageNumber"] +1)" class="btn btn-outline-secondary @ViewData["Siguiente"]"
            asp-route-busquedaActual="@ViewData["BusquedaActual"]">
             Siguiente
         </a>
         <a asp-action="Index"
-           asp-route-pageNumber="@ViewData["TotalPaginas"]" class="btn btn-outline-primary"
+           asp-route-pageNumber="@ViewData["TotalPaginas"]" class="btn btn-outline-secondary"
            asp-route-busquedaActual="@ViewData["BusquedaActual"]">
             <i class="bi bi-skip-end-fill"></i>
         </a>

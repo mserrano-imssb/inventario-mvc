@@ -36,9 +36,6 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
 
                         @if(User.IsInRole(DS.Role_Admin) || User.IsInRole(DS.Role_Inventario))
                         {
@@ -94,7 +91,7 @@
                                     @{
                                         var numeroProductos = httpContextAccessor.HttpContext.Session.GetInt32(DS.ssCarroCompras);
                                     }
-                                    <i class="bi bi-cart-fill text-primary">&nbsp; (@numeroProductos) </i>
+                                    <i class="bi bi-cart-fill text-secondary">&nbsp; (@numeroProductos) </i>
                                 </a>
                             </li>
                         }
@@ -102,7 +99,7 @@
                         {
                             <li>
                                 <a href="#" class="nav-link">
-                                    <i class="bi bi-cart-fill text-primary">&nbsp; (0) </i>
+                                    <i class="bi bi-cart-fill text-secondary">&nbsp; (0) </i>
                                 </a>
                             </li>
                         }
@@ -122,7 +119,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2023 - SistemaInventario - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - IMSS Bienestar - <a asp-area="" asp-controller="Home" asp-action="Privacy">Política de privacidad</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
