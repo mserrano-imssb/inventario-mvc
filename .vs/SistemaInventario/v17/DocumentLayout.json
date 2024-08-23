@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\mario serrano\\source\\repos\\inventario-mvc\\sistemainventario\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\mario serrano\\source\\repos\\inventario-mvc\\sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\mario serrano\\source\\repos\\inventario-mvc\\sistemainventario\\areas\\inventario\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\areas\\inventario\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0BC778B6-84E2-44BF-B0EB-2DFBCAC0EF09}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|c:\\users\\mario serrano\\source\\repos\\inventario-mvc\\sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BC778B6-84E2-44BF-B0EB-2DFBCAC0EF09}|SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj|solutionrelative:sistemainventario.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\mario serrano\\source\\repos\\inventario-mvc\\sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A7C9B21-6C58-4B85-9608-8963BBFC9928}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +50,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\.gitignore",
+              "RelativeDocumentMoniker": "SistemaInventario\\.gitignore",
+              "ToolTip": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\.gitignore",
+              "RelativeToolTip": "SistemaInventario\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-23T16:37:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Privacy.cshtml",
@@ -63,20 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
-              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
-              "RelativeToolTip": "SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T22:55:53.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "SistemaInventario\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAHMAAAAAAAAAAADwv3YAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T22:54:15.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T22:54:15.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
@@ -97,12 +112,11 @@
               "RelativeToolTip": "SistemaInventario\\Areas\\Inventario\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T22:50:13.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T22:50:13.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "SistemaInventario\\wwwroot\\css\\site.css",
@@ -110,12 +124,11 @@
               "RelativeToolTip": "SistemaInventario\\wwwroot\\css\\site.css",
               "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-22T22:43:39.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T22:43:39.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DbInicializador.cs",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
               "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
@@ -123,25 +136,11 @@
               "RelativeToolTip": "SistemaInventario.AccesoDatos\\Inicializador\\DbInicializador.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAkwDsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T20:31:46.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T20:31:46.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAxwCcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T20:31:31.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaInventario\\appsettings.json",
@@ -154,7 +153,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
+              "RelativeToolTip": "SistemaInventario\\Areas\\Admin\\Views\\Bodega\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T22:55:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaInventario.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAxwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T20:31:31.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mario Serrano\\source\\repos\\inventario-mvc\\SistemaInventario\\Program.cs",
               "RelativeDocumentMoniker": "SistemaInventario\\Program.cs",
@@ -162,8 +185,7 @@
               "RelativeToolTip": "SistemaInventario\\Program.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAUwGAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T15:12:23.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T15:12:23.384Z"
             }
           ]
         }

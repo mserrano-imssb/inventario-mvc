@@ -34,17 +34,7 @@ bld/
 [Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
-bin/
-obj/
-TestResults/
-# Visual Studio Code directory
-.vscode/
-
-# Visual Studio Code workspace file
-*.code-workspace
 .vs/
-.vs/
-/ .vs
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
